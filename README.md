@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 25.04.1999
+**Course Date:** 25.04.1999   
 **Name:** Yaren Zelal  
 **Surname:** Tosu  
 **Email:** yarentosu@gmail.com  
